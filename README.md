@@ -28,5 +28,6 @@ Open the notebook in Google Colab -> Upload the dataset file 'pizza.csv' -> run 
 # Outputs
 Prediction:
 ![Prediction:](prediction.png)
+
 Regression Graph:
 ![Regression Graph:](regression.png)

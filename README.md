@@ -26,5 +26,7 @@ Linear regression is a supervised machine learning algorithm which is used to pr
 Open the notebook in Google Colab -> Upload the dataset file 'pizza.csv' -> run the cells sequentially
 
 # Outputs
+Prediction:
 ![Prediction:](prediction.png)
+Regression Graph:
 ![Regression Graph:](regression.png)

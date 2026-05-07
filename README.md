@@ -11,10 +11,10 @@ The dataset contains pizza diameters and the corresponding prices.
 | 14       | 17    |
 | 18       | 20    |
 
-# Linear Regression
+## Linear Regression
 Linear regression is a supervised machine learning algorithm which is used to predict continuous numerical values. The Linear Regression model will learn the relationship between pizza diameter and the pizza price using a best-fit line.
 
-# Steps:
+## Steps:
 1. Create the dataset
 2. Load the dataset
 3. Separate the input and output variables
@@ -22,12 +22,12 @@ Linear regression is a supervised machine learning algorithm which is used to pr
 5. Predict pizza prices
 6. Visualize the regression line
 
-# How to run
+## How to run
 Open the notebook in Google Colab -> Upload the dataset file 'pizza.csv' -> run the cells sequentially
 
-# Outputs
-Prediction:
+## Outputs
+### Prediction:
 ![Prediction:](prediction.png)
 
-Regression Graph:
+### Regression Graph:
 ![Regression Graph:](regression.png)
